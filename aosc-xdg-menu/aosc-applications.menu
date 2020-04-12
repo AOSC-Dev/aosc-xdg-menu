@@ -9,14 +9,6 @@
   <DefaultMergeDirs/>
 
   <Menu>
-    <Name>AOSC</Name>
-    <Directory>AOSC.directory</Directory>
-    <Include>
-      <Category>AOSC</Category>
-    </Include>
-  </Menu>
-
-  <Menu>
     <Name>Accessories</Name>
     <Directory>AOSC-Accessories.directory</Directory>
     <Include>
